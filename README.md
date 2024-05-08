@@ -1,3 +1,5 @@
-# Btech-SY
+# BTech SY
 
-Resources and reference materials for first-year BTech, including assignments and notes.
+- [SY-COMP-Syllabus.pdf](SY-COMP-Syllabus.pdf)
+- [Semester-3](Semester-3/)
+- [Semester-4](Semester-4/)

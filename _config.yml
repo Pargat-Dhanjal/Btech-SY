@@ -2,4 +2,5 @@ title: BTech SY
 description: Resources and reference materials for second-year BTech Computer Engineering, including assignments and notes.
 theme: jekyll-theme-cayman
 show_downloads: true
-github: true
+github:
+  another_url: http://example.com/download.zip

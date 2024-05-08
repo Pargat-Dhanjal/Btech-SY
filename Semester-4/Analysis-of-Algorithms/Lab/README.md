@@ -1,0 +1,15 @@
+# Lab
+
+## Files
+
+- [EXP10-AOA-16010121045-Pargat.pdf](EXP10-AOA-16010121045-Pargat.pdf)
+- [EXP4-AOA-16010121045-Pargat.pdf](EXP4-AOA-16010121045-Pargat.pdf)
+- [EXP5-AOA-16010121045-Pargat.pdf](EXP5-AOA-16010121045-Pargat.pdf)
+- [EXP6-AOA-16010121045-Pargat.pdf](EXP6-AOA-16010121045-Pargat.pdf)
+- [EXP7-AOA-16010121045-Pargat.pdf](EXP7-AOA-16010121045-Pargat.pdf)
+- [EXP8-AOA-16010121045-Pargat.pdf](EXP8-AOA-16010121045-Pargat.pdf)
+- [EXP9-AOA-16010121045-Pargat.pdf](EXP9-AOA-16010121045-Pargat.pdf)
+- [Exp1-AOA-16010121045-Pargat.pdf](Exp1-AOA-16010121045-Pargat.pdf)
+- [Exp2-AOA-16010121045-Pargat.pdf](Exp2-AOA-16010121045-Pargat.pdf)
+- [Exp3-AOA-16010121045-Pargat.pdf](Exp3-AOA-16010121045-Pargat.pdf)
+- [Updated Journal AoA SVU -IV Even 2022-23.docx](Updated%20Journal%20AoA%20SVU%20-IV%20Even%202022-23.docx)
